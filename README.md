@@ -23,10 +23,12 @@ This repository contains a Java-based maze solver that utilizes a **Backtracking
 For the program to run correctly, a `maze.txt` file must be present in the project's root directory. It should contain **15 lines of 15 characters** each.
 
 **Example maze.txt:**
+
 011111111111111
 000001010101001
 111101010101011
-... (15 rows total)
+000000000000000
+111111111111110
 
 How to Run (IDE)
 You don't need to use the terminal; you can run the project directly through your IDE:
